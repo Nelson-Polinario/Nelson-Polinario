@@ -5,8 +5,8 @@
         I am located in Brazil, however I perform activities for offices in 
         London and Shanghai doing data insertion and problem analysis.
 
-- 🌱 I am studying faculty of analysis and systems development and other courses in HTML, CSS, JavaScrip and 
-        until the end of 2020 I will take courses in MySQL and Phyton.
+- 🌱 I am studying faculty of analysis and systems development and other courses in HTML, CSS, JavaScrip,
+        node js and until the end of 2020 I will take courses in MySQL and Phyton.
 
 - 👯 I try to collaborate on projects that help me develop my skills. 
         I would love to learn more about mobile and machine / deep learing development 
