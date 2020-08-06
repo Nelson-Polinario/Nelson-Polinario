@@ -20,7 +20,7 @@
 
 - 📫 To talk to me just send an email to nelsonpolinario@gmail.com or enter my social networks:
       Linkedin: nelsonpolinario
-      Intagram: @ nelsonpolinario.oficial
+      Instagram: @ nelsonpolinario.oficial
 
 - 😄 A curiosity: I also work with theater and cinema. For more than 19 years I worked as a professional actor, 
       executive director of cultural projects and professor of interpretation for theater, TV and cinema ... 
